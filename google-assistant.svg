@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114.4" height="104" id="google-assistant">
+  <g transform="translate(0 -23)">
+    <circle cx="31.2" cy="31.2" r="31.2" fill="#4285f4" transform="translate(0 23)"></circle>
+    <circle cx="15.6" cy="15.6" r="15.6" fill="#ea4335" transform="translate(67.6 54.2)"></circle>
+    <circle cx="18.2" cy="18.2" r="18.2" fill="#fbbc05" transform="translate(65 90.6)"></circle>
+    <circle cx="7.8" cy="7.8" r="7.8" fill="#34a853" transform="translate(98.8 43.8)"></circle>
+  </g>
+</svg>
